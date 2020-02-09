@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Peer to Peer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Peer_to_Peer_jar</output-path>
+    <root id="archive" name="Peer to Peer.jar">
+      <element id="module-output" name="Peer to Peer" />
+    </root>
+  </artifact>
+</component>
