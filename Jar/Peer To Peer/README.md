@@ -5,7 +5,7 @@
 <hr>
 <hr>
 
-####PEER TO PEER
+####PEER TO PEER<br>
 Instructions to use the Jar File:<br>
 `1. Open the Terminal or CMD `<br>
 `2. Type the command :` <br>
