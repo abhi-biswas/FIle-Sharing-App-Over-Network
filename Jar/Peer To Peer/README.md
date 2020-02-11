@@ -2,7 +2,7 @@
 ### ABHIJEET BISWAS (Leader)
 ### Kishlay Kumar   (Slot 2)
 ### Aman Kumar Gaurav (Slot 3)<hr><hr>
-<h1>PEER TO PEER</h1><br>
+<h1>PEER TO PEER</h1></br>
 Instructions to use the Jar File:<br>
 `1. Open the Terminal or CMD `<br>
 `2. Type the command :` <br>
@@ -10,7 +10,7 @@ Instructions to use the Jar File:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Example:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;java -jar Peer_to_Peer.jar 127.0.0.1 abhijeet ash<br>
 `Do step 1 and 2` for both clients<br>
-Now you can send and receive messages and files using the GUI<br>
+Now you can send and receive messages and files using the GUI</br>
 ![](../../images/Peer_To_Peer/01.png)<hr>
 ![](../../images/Peer_To_Peer/02.png)<hr>
 ![](../../images/Peer_To_Peer/03.png)<hr>
