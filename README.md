@@ -11,7 +11,7 @@ The Source codes are present in **Source Code** Folder.<br>
 **Both Server To Client and Peer To Peer applications were thoroughly tested on both localhost as well as Remote Hosts.**
 
 
- ####PEER TO PEER
+ #### PEER TO PEER
  **Goto ./Jar/Peer To Peer**
  **Instructions to use the Jar File:** <br>
  `1. Open the Terminal or CMD `<br>
@@ -29,7 +29,7 @@ The Source codes are present in **Source Code** Folder.<br>
  ![](./images/Peer_To_Peer/06.png)<hr>
  <hr>
  
-####Server To client
+#### Server To client
 **Goto the location : ./Jar/Server To Client/** <br>
 
 **Instructions to use the Jar Files:**<br>
