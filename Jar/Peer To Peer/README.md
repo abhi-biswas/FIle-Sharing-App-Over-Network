@@ -1,8 +1,8 @@
 ### Group 4 (CSE OVERALL) ->  Group 2 (CSA)
 ### ABHIJEET BISWAS (Leader)
 ### Kishlay Kumar   (Slot 2)
-### Aman Kumar Gaurav (Slot 3)<hr><hr>
-<h1>PEER TO PEER</h1></br>
+### Aman Kumar Gaurav (Slot 3)<br>
+##PEER TO PEER</br>
 Instructions to use the Jar File:<br>
 `1. Open the Terminal or CMD `<br>
 `2. Type the command :` <br>
