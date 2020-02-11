@@ -2,7 +2,7 @@
 ### ABHIJEET BISWAS (Leader)
 ### Kishlay Kumar   (Slot 2)
 ### Aman Kumar Gaurav (Slot 3)<hr><hr>
-###PEER TO PEER<br>
+<h1>PEER TO PEER</h1><br>
 Instructions to use the Jar File:<br>
 `1. Open the Terminal or CMD `<br>
 `2. Type the command :` <br>
