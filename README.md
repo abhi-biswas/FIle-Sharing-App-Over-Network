@@ -1,9 +1,5 @@
-### Group 4 (CSE OVERALL) ->  Group 2 (CSA)
-<hr>
+### File Sharing App
 
-### ABHIJEET BISWAS 20174010 (Leader)
-### Kishlay Kumar   20174132 (Slot 2)
-### Aman Kumar Gaurav 20174151 (Slot 3)
 
 This is a JavaFx based project written using Intellij Idea IDE.
 The Jar files for both Peer to Peer and, Server Client application are present in the **Jar folder**  along with the required instructions.
