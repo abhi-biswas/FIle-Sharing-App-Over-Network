@@ -1,4 +1,4 @@
-### File Sharing App
+### File Sharing App over the network
 
 
 This is a JavaFx based project written using Intellij Idea IDE.
